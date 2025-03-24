@@ -1,0 +1,977 @@
+[
+    {
+        "query": {
+            "image_name": "1000344755.jpg",
+            "comment": "Someone in a blue shirt and hat is standing on stair and leaning against a window . A man in a blue shirt is standing on a ladder cleaning a window . A man on a ladder cleans the window of a tall building . man in blue shirt and jeans on ladder cleaning windows a man on a ladder cleans a window",
+            "keywords": "man blue,standing stair,cleaning windows"
+        },
+        "target": {
+            "image_name": "1044798682.jpg",
+            "comment": "A man wearing a hat and a white shirt is cleaning windows . A man in a white shirt stands high up on scaffolding A man stands on boards on top of a huge ladder . Man works on top of scaffolding . A guy works on a building .",
+            "keywords": "man stands,scaffolding,cleaning windows"
+        },
+        "id": 0
+    },
+    {
+        "query": {
+            "image_name": "1000366164.jpg",
+            "comment": "Two men  one in a gray shirt  one in a black shirt  standing near a stove . Two guy cooking and joking around with the camera . Two men in a kitchen cooking food on a stove . Two men are at the stove preparing food . Two men are cooking a meal .",
+            "keywords": "preparing food,men gray,near stove"
+        },
+        "target": {
+            "image_name": "1040426962.jpg",
+            "comment": "A man is cooking what appears to be green beans in a grill basket on a grill with a yellow lab standing by him while someone takes a picture from above . A man and his dog are grilling green beans on a grill . A man grilling vegetables on a patio with his dog . A man and a dog grilling green beans . Guy and his dog cooking outside",
+            "keywords": "man dog,cooking outside,green beans"
+        },
+        "id": 1
+    },
+    {
+        "query": {
+            "image_name": "1001573224.jpg",
+            "comment": "Five ballet dancers caught mid jump in a dancing studio with sunlight coming through a window . Ballet dancers in a studio practice jumping with wonderful form . Five girls are leaping simultaneously in a dance practice room . Five girls dancing and bending feet in ballet class . A ballet class of five girls jumping in sequence .",
+            "keywords": "feet ballet,dancing studio,girls jumping"
+        },
+        "target": {
+            "image_name": "101362650.jpg",
+            "comment": "Two people are demonstrating martial arts to a crowd and jumping over three youngsters who are crouched on the mat . A boy jump kicking over three kids kicking wood during a tae kwon do competition . A boy jumps over three other students in a martial arts demonstration . A crowd is watching a group of five martial artists perform . A crowd of people watch a martial arts demonstration .",
+            "keywords": "jumps students,martial,perform crowd"
+        },
+        "id": 2
+    },
+    {
+        "query": {
+            "image_name": "1001633352.jpg",
+            "comment": "Three young men and a young woman wearing sneakers are leaping in midair at the top of a flight of concrete stairs . Four casually dressed guys jumping down a stairway outdoors with a stone wall behind them . Four guys three wearing hats one not are jumping at the top of a staircase . Four men with excited faces are jumping down from the top of stairs . Four people are jumping from the top of a flight of stairs .",
+            "keywords": "men excited,concrete stairs,leaping midair"
+        },
+        "target": {
+            "image_name": "1057089366.jpg",
+            "comment": "A kid jumps off the diving board and into the swimming pool below . The boy is jumping off a high diving board into the pool . A child jumps off a high diving board into the pool . A little kid is jumping off a high dive at the pool . A boy descends off the end of a high diving board .",
+            "keywords": "jumps,swimming pool,boy descends"
+        },
+        "id": 3
+    },
+    {
+        "query": {
+            "image_name": "1001773457.jpg",
+            "comment": "A black dog and a white dog with brown spots are staring at each other in the street . A black dog and a tri-colored dog playing with each other on the road . Two dogs of different breeds looking at each other on the road . Two dogs on pavement moving toward each other . A black dog and a spotted dog are fighting",
+            "keywords": "different breeds,dog playing,staring street"
+        },
+        "target": {
+            "image_name": "1020651753.jpg",
+            "comment": "A white dog is trying to catch a ball in midair over a grassy field . The white dog is playing in a green field with a yellow toy . a black and white dog jumping in the air to get a toy . A black and white dog jumps up towards a yellow toy . A dog leaps to catch a ball in a field .",
+            "keywords": "yellow toy,ball field,dog jumps"
+        },
+        "id": 4
+    },
+    {
+        "query": {
+            "image_name": "1002674143.jpg",
+            "comment": "A small girl in the grass plays with fingerpaints in front of a white canvas with a rainbow on it . A little girl covered in paint sits in front of a painted rainbow with her hands in a bowl . There is a girl with pigtails sitting in front of a rainbow painting . A little girl is sitting in front of a large painted rainbow . Young girl with pigtails painting outside in the grass .",
+            "keywords": "rainbow hands,grass plays,girl sitting"
+        },
+        "target": {
+            "image_name": "1053116826.jpg",
+            "comment": "Two little children  one boy and one girl  laugh as they sit on the grass . A little boy and a girl sitting down in the grass having fun . A young boy and a young girl sitting in the grass laughing . Two children smiling and sitting on grass . Two kids are laughing in the grass .",
+            "keywords": "girl laugh,little children,sitting grass"
+        },
+        "id": 5
+    },
+    {
+        "query": {
+            "image_name": "1003163366.jpg",
+            "comment": "a man sleeping on a bench outside with a white and black dog sitting next to him . A man lays on the bench to which a white dog is also tied . man laying on bench holding leash of dog sitting on ground A shirtless man lies on a park bench with his dog . A man lays on a bench while his dog sits by him .",
+            "keywords": "dog tied,man sleeping,park bench"
+        },
+        "target": {
+            "image_name": "1059514525.jpg",
+            "comment": "A person is sleeping on a bench on the sidewalk  across the street from a bus stop . A man with a plaid blanket sleeps on a bench near a city street . A person laying on a street bench under a blue plaid blanket . A man is sleeping on a bench near a bus stop . Someone sleeping on bench on city street .",
+            "keywords": "street bus,man sleeping,bench near"
+        },
+        "id": 6
+    },
+    {
+        "query": {
+            "image_name": "100444898.jpg",
+            "comment": "A person in gray stands alone on a structure outdoors in the dark . A large structure has broken and is laying in a roadway . A man in a gray coat is standing on a washed out bridge . A man stands on wooden supports and surveys damage . A man in a jacket and jeans standing on a bridge .",
+            "keywords": "washed bridge,man stands,outdoors dark"
+        },
+        "target": {
+            "image_name": "103953336.jpg",
+            "comment": "Someone is standing on a long bridge with a cloudy blue sky in the background . A solitary man stand on a bridge in the evening . One person is standing on a bridge at night . Person crossing a bridge in dim light . A man stands on a bridge at night .",
+            "keywords": "sky background,man stands,crossing bridge"
+        },
+        "id": 7
+    },
+    {
+        "query": {
+            "image_name": "100716317.jpg",
+            "comment": "A person with long gray hair has a beret with beige and white wearing a blue raincoat is painting a marketplace scenery surrounded by other artists and paintings . A person dressed in a blue coat is standing in on a busy sidewalk  studying painting of a street scene . A person with gray hair is painting in a public place surrounded by others who are also painting . Lady in blue coat with white and brown hat standing in front of a painting . Passerby admiring painting at an outdoor art fair .",
+            "keywords": "painting passerby,coat standing,outdoor art"
+        },
+        "target": {
+            "image_name": "101669240.jpg",
+            "comment": "A person wearing skis looking at framed pictures set up in the snow . A man in a hat is displaying pictures next to a skier in a blue hat . A man skis past another man displaying paintings in the snow . A skier looks at framed pictures in the snow next to trees . Man on skis looking at artwork for sale in the snow",
+            "keywords": "looking artwork,man displaying,skis past"
+        },
+        "id": 8
+    },
+    {
+        "query": {
+            "image_name": "1007205537.jpg",
+            "comment": "A man stands on one foot while holding on to a waste basket . A man in green pants and blue shirt pushing a cart . Janitor pushing dolly outside with janitor tools . A man in green pants walking down the road . A man in bright pants is pushing a cart .",
+            "keywords": "man stands,janitor pushing,waste basket"
+        },
+        "target": {
+            "image_name": "10082348.jpg",
+            "comment": "A man with a baseball cap and black jacket stands in a bathroom while holding a coffee mug . A man is wearing a ball cap and holding a coffee cup between to urinals . a man is posing next to a urinal with a cup of coffee . A man holds a coffee cup while in the bathroom . A man standing at a urinal with a coffee cup .",
+            "keywords": "man standing,cup coffee,urinals"
+        },
+        "id": 9
+    },
+    {
+        "query": {
+            "image_name": "1007320043.jpg",
+            "comment": "A small child grips onto the red ropes at the playground . A little girl in pink climbs a rope bridge at the park . The small child climbs on a red ropes on a playground . A little girl climbing on red roping . A child playing on a rope net .",
+            "keywords": "park small,rope bridge,child playing"
+        },
+        "target": {
+            "image_name": "103106960.jpg",
+            "comment": "A young male kneeling in front of a hockey goal with a hockey stick in his right hand . A child in a red jacket playing street hockey guarding a goal . Hockey goalie boy in red jacket crouches by goal  with stick . A boy with a stick kneeling in front of a goalie net A young kid playing the goalie in a hockey rink .",
+            "keywords": "kid playing,hockey rink,male kneeling"
+        },
+        "id": 10
+    },
+    {
+        "query": {
+            "image_name": "10082348.jpg",
+            "comment": "A man with a baseball cap and black jacket stands in a bathroom while holding a coffee mug . A man is wearing a ball cap and holding a coffee cup between to urinals . a man is posing next to a urinal with a cup of coffee . A man holds a coffee cup while in the bathroom . A man standing at a urinal with a coffee cup .",
+            "keywords": "man standing,cup coffee,urinals"
+        },
+        "target": {
+            "image_name": "1007205537.jpg",
+            "comment": "A man stands on one foot while holding on to a waste basket . A man in green pants and blue shirt pushing a cart . Janitor pushing dolly outside with janitor tools . A man in green pants walking down the road . A man in bright pants is pushing a cart .",
+            "keywords": "man stands,janitor pushing,waste basket"
+        },
+        "id": 11
+    },
+    {
+        "query": {
+            "image_name": "1009434119.jpg",
+            "comment": "A black and white dog is running in a grassy garden surrounded by a white fence . A Boston Terrier is running on lush green grass in front of a white fence . A black and white dog is running through the grass . A dog runs on the green grass near a wooden fence . A Boston terrier is running in the grass .",
+            "keywords": "grassy garden,dog runs,fence boston"
+        },
+        "target": {
+            "image_name": "1019077836.jpg",
+            "comment": "Large brown dog running away from the sprinkler in the grass . A brown dog chases the water from a sprinkler on a lawn . A brown dog running on a lawn near a garden hose a brown dog plays with the hose . A dog is playing with a hose .",
+            "keywords": "hose brown,lawn near,dog chases"
+        },
+        "id": 12
+    },
+    {
+        "query": {
+            "image_name": "1010673430.jpg",
+            "comment": "A little girl in a pink shirt and a little girl in an orange shirt sitting in the grass . Two young children eating a snack and playing in the grass . Two young toddlers outside on the grass . Two infants are at play in the yard . 2 female babies eating chips .",
+            "keywords": "sitting grass,eating chips,female babies"
+        },
+        "target": {
+            "image_name": "1053116826.jpg",
+            "comment": "Two little children  one boy and one girl  laugh as they sit on the grass . A little boy and a girl sitting down in the grass having fun . A young boy and a young girl sitting in the grass laughing . Two children smiling and sitting on grass . Two kids are laughing in the grass .",
+            "keywords": "girl laugh,little children,sitting grass"
+        },
+        "id": 13
+    },
+    {
+        "query": {
+            "image_name": "1011572216.jpg",
+            "comment": "bride and groom walking side by side out of focus on pathway next to brick building . A beautiful bride walking on a sidewalk with her new husband . A recently married couple pose for the camera . A groom and bride are standing arm in arm . A couple getting married .",
+            "keywords": "walking sidewalk,camera groom,arm couple"
+        },
+        "target": {
+            "image_name": "1042590306.jpg",
+            "comment": "A man is holding the hand of a woman up to his mouth in front of some buildings while another man looks on . Guy in blue shirt biting hand of girl in black striped jacket while another guy watches Asian man and blond woman holding hands outdoors  man in background watches . A man and woman pose for the camera while another man looks on . A multiracial couple posing for a picture",
+            "keywords": "biting hand,pose camera,multiracial couple"
+        },
+        "id": 14
+    },
+    {
+        "query": {
+            "image_name": "1012328893.jpg",
+            "comment": "A group of people picnicking at picnic tables in front of a playground . A group of people enjoying a beautiful day in the park . A group of people are having a picnic at the park . The reunion is in full swing with a moon bounce . A group of people having a barbecue at a park .",
+            "keywords": "having barbecue,group people,swing moon"
+        },
+        "target": {
+            "image_name": "1016887272.jpg",
+            "comment": "Several climbers in a row are climbing the rock while the man in red watches and holds the line . Seven climbers are ascending a rock face whilst another man stands holding the rope . A group of people are rock climbing on a rock climbing wall . A group of people climbing a rock while one man belays A collage of one person climbing a cliff .",
+            "keywords": "holding rope,ascending rock,group people"
+        },
+        "id": 15
+    },
+    {
+        "query": {
+            "image_name": "101362133.jpg",
+            "comment": "A young female student performing a downward kick to break a board held by her Karate instructor . Girl about to kick a piece of wood in half while karate instructor holds it A girl kicking a stick that a man is holding in tae kwon do class . A girl in karate uniform breaking a stick with a front kick . A girl breaking boards by using karate .",
+            "keywords": "holding tae,kick piece,female student"
+        },
+        "target": {
+            "image_name": "104835889.jpg",
+            "comment": "A samurai warrior in full black dress takes his sword from the sheath on an outdoor training mat . A man in a black martial arts suit unsheathes a sword on a training mat in a field . A guy with a sword and traditional fighting gear is getting ready for a fight . A man in black wields a sword in front of rolling  green hills . One man dressed in black doing karate in a green field .",
+            "keywords": "doing karate,sword traditional,warrior black"
+        },
+        "id": 16
+    },
+    {
+        "query": {
+            "image_name": "101362650.jpg",
+            "comment": "Two people are demonstrating martial arts to a crowd and jumping over three youngsters who are crouched on the mat . A boy jump kicking over three kids kicking wood during a tae kwon do competition . A boy jumps over three other students in a martial arts demonstration . A crowd is watching a group of five martial artists perform . A crowd of people watch a martial arts demonstration .",
+            "keywords": "jumps students,martial,perform crowd"
+        },
+        "target": {
+            "image_name": "104835889.jpg",
+            "comment": "A samurai warrior in full black dress takes his sword from the sheath on an outdoor training mat . A man in a black martial arts suit unsheathes a sword on a training mat in a field . A guy with a sword and traditional fighting gear is getting ready for a fight . A man in black wields a sword in front of rolling  green hills . One man dressed in black doing karate in a green field .",
+            "keywords": "doing karate,sword traditional,warrior black"
+        },
+        "id": 17
+    },
+    {
+        "query": {
+            "image_name": "1015584366.jpg",
+            "comment": "A mottled black and gray dog in a blue collar jumping over a fallen tree . A gray dog is leaping over a fallen tree . A large black dog leaps a fallen log . The black dog jumped the tree stump . A black dog leaps over a log .",
+            "keywords": "dog blue,leaps,fallen log"
+        },
+        "target": {
+            "image_name": "1067180831.jpg",
+            "comment": "A black and white dog is attempting to catch a yellow and purple object in a low cut yard . A black dog is jumping up to catch a purple and green toy . A black and white dog jumps after a yellow toy . a black and white dog jumps to get the Frisbee . A dog jumps to catch a toy .",
+            "keywords": "catch yellow,toy black,dog jumps"
+        },
+        "id": 18
+    },
+    {
+        "query": {
+            "image_name": "1015712668.jpg",
+            "comment": "A man in a red long-sleeved shirt bikes over a body of water on a bridge . A man riding his bike across the bridge that is over the river . A man in red on a bicycle rides past a glass structure . Man in a red shirt riding his bicycle around water . A man in a red shirt rides his bicycle .",
+            "keywords": "man red,water bridge,rides bicycle"
+        },
+        "target": {
+            "image_name": "1065831604.jpg",
+            "comment": "A bunch of people in racing gear and helmets racing bicycles around a corner on wet pavement . Many men ride their bicycles through some puddles around a curve during a race . Group of bicyclers rounding a corner with water spraying up from their wheels . Bikers in a bike race take a sharp left turn . Several bike riders compete in a competition .",
+            "keywords": "men ride,helmets racing,bicycles puddles"
+        },
+        "id": 19
+    },
+    {
+        "query": {
+            "image_name": "101654506.jpg",
+            "comment": "The white and brown dog is running over the surface of the snow . a white and brown dog is running through a snow covered field . A brown and white dog is running through the snow . A dog running through snow . A dog is running in the snow",
+            "keywords": "brown white,covered field,dog running"
+        },
+        "target": {
+            "image_name": "1009434119.jpg",
+            "comment": "A black and white dog is running in a grassy garden surrounded by a white fence . A Boston Terrier is running on lush green grass in front of a white fence . A black and white dog is running through the grass . A dog runs on the green grass near a wooden fence . A Boston terrier is running in the grass .",
+            "keywords": "grassy garden,dog runs,fence boston"
+        },
+        "id": 20
+    },
+    {
+        "query": {
+            "image_name": "101669240.jpg",
+            "comment": "A person wearing skis looking at framed pictures set up in the snow . A man in a hat is displaying pictures next to a skier in a blue hat . A man skis past another man displaying paintings in the snow . A skier looks at framed pictures in the snow next to trees . Man on skis looking at artwork for sale in the snow",
+            "keywords": "looking artwork,man displaying,skis past"
+        },
+        "target": {
+            "image_name": "100716317.jpg",
+            "comment": "A person with long gray hair has a beret with beige and white wearing a blue raincoat is painting a marketplace scenery surrounded by other artists and paintings . A person dressed in a blue coat is standing in on a busy sidewalk  studying painting of a street scene . A person with gray hair is painting in a public place surrounded by others who are also painting . Lady in blue coat with white and brown hat standing in front of a painting . Passerby admiring painting at an outdoor art fair .",
+            "keywords": "painting passerby,coat standing,outdoor art"
+        },
+        "id": 21
+    },
+    {
+        "query": {
+            "image_name": "1016887272.jpg",
+            "comment": "Several climbers in a row are climbing the rock while the man in red watches and holds the line . Seven climbers are ascending a rock face whilst another man stands holding the rope . A group of people are rock climbing on a rock climbing wall . A group of people climbing a rock while one man belays A collage of one person climbing a cliff .",
+            "keywords": "holding rope,ascending rock,group people"
+        },
+        "target": {
+            "image_name": "1012328893.jpg",
+            "comment": "A group of people picnicking at picnic tables in front of a playground . A group of people enjoying a beautiful day in the park . A group of people are having a picnic at the park . The reunion is in full swing with a moon bounce . A group of people having a barbecue at a park .",
+            "keywords": "having barbecue,group people,swing moon"
+        },
+        "id": 22
+    },
+    {
+        "query": {
+            "image_name": "1018057225.jpg",
+            "comment": "a boy in a black t-shirt and blue jeans is pushing a toy three wheeler around a small pool . A young boy is pushing a toy ATV around a rubber pool a boy pushing a red toy atv next to a pool A boy pushing a miniature car on a lawn . A young boy pushing his toy quad .",
+            "keywords": "atv rubber,small pool,boy pushing"
+        },
+        "target": {
+            "image_name": "1057089366.jpg",
+            "comment": "A kid jumps off the diving board and into the swimming pool below . The boy is jumping off a high diving board into the pool . A child jumps off a high diving board into the pool . A little kid is jumping off a high dive at the pool . A boy descends off the end of a high diving board .",
+            "keywords": "jumps,swimming pool,boy descends"
+        },
+        "id": 23
+    },
+    {
+        "query": {
+            "image_name": "1018148011.jpg",
+            "comment": "A group of people stand in the back of a truck filled with cotton . Men are standing on and about a truck carrying a white substance . A group of people are standing on a pile of wool in a truck . A group of men are loading cotton onto a truck Workers load sheared wool onto a truck .",
+            "keywords": "truck,loading cotton,people stand"
+        },
+        "target": {
+            "image_name": "102617084.jpg",
+            "comment": "Five snowmobile riders all wearing helmets and goggles line up in a snowy clearing in a forest in front of their snowmobiles ; they are all wearing black snow pants and from left to right they are wearing a black coat  white coat  red coat  blue coat  and black coat . Five people wearing winter jackets and helmets stand in the snow  with snowmobiles in the background . Five people wearing winter clothing  helmets  and ski goggles stand outside in the snow . A group of snowmobile riders gather in the snow . Group gathered to go snowmobiling .",
+            "keywords": "people wearing,stand snow,forest snowmobiles"
+        },
+        "id": 24
+    },
+    {
+        "query": {
+            "image_name": "1019077836.jpg",
+            "comment": "Large brown dog running away from the sprinkler in the grass . A brown dog chases the water from a sprinkler on a lawn . A brown dog running on a lawn near a garden hose a brown dog plays with the hose . A dog is playing with a hose .",
+            "keywords": "hose brown,lawn near,dog chases"
+        },
+        "target": {
+            "image_name": "1009434119.jpg",
+            "comment": "A black and white dog is running in a grassy garden surrounded by a white fence . A Boston Terrier is running on lush green grass in front of a white fence . A black and white dog is running through the grass . A dog runs on the green grass near a wooden fence . A Boston terrier is running in the grass .",
+            "keywords": "grassy garden,dog runs,fence boston"
+        },
+        "id": 25
+    },
+    {
+        "query": {
+            "image_name": "102030371.jpg",
+            "comment": "A man wearing a green shirt and a dark colored vest is sitting at a table with a glass of water in front of him . Guy in green shirt with hand covering part of his face in restaurant booth . Man sitting at a table at a restaurant with a glass of water . A man in a green sweater and black vest sitting in a booth . A boy in a green sweater is sitting at a table .",
+            "keywords": "vest sitting,boy green,table glass"
+        },
+        "target": {
+            "image_name": "1033767085.jpg",
+            "comment": "a young child with a Band-Aid on his head sits eating at a small white table with a little girl eating off a yellow plate . A young blond-haired boy and a dark-haired girl are eating at a kid 's table . Two children are sitting at a table eating food . Two children eating at a small table . Two children eating food .",
+            "keywords": "sitting table,eating yellow,child band"
+        },
+        "id": 26
+    },
+    {
+        "query": {
+            "image_name": "1020651753.jpg",
+            "comment": "A white dog is trying to catch a ball in midair over a grassy field . The white dog is playing in a green field with a yellow toy . a black and white dog jumping in the air to get a toy . A black and white dog jumps up towards a yellow toy . A dog leaps to catch a ball in a field .",
+            "keywords": "yellow toy,ball field,dog jumps"
+        },
+        "target": {
+            "image_name": "1067180831.jpg",
+            "comment": "A black and white dog is attempting to catch a yellow and purple object in a low cut yard . A black dog is jumping up to catch a purple and green toy . A black and white dog jumps after a yellow toy . a black and white dog jumps to get the Frisbee . A dog jumps to catch a toy .",
+            "keywords": "catch yellow,toy black,dog jumps"
+        },
+        "id": 27
+    },
+    {
+        "query": {
+            "image_name": "1021293940.jpg",
+            "comment": "Two men are hiking in a forest where snow is partially covering the ground . Two men hiking in the snowy wilderness . Two hikers resting by a patch of snow . Two men look up while hiking . Two men hiking in the snow .",
+            "keywords": "forest,men look,hiking snow"
+        },
+        "target": {
+            "image_name": "102617084.jpg",
+            "comment": "Five snowmobile riders all wearing helmets and goggles line up in a snowy clearing in a forest in front of their snowmobiles ; they are all wearing black snow pants and from left to right they are wearing a black coat  white coat  red coat  blue coat  and black coat . Five people wearing winter jackets and helmets stand in the snow  with snowmobiles in the background . Five people wearing winter clothing  helmets  and ski goggles stand outside in the snow . A group of snowmobile riders gather in the snow . Group gathered to go snowmobiling .",
+            "keywords": "people wearing,stand snow,forest snowmobiles"
+        },
+        "id": 28
+    },
+    {
+        "query": {
+            "image_name": "102351840.jpg",
+            "comment": "A man is drilling through the frozen ice of a pond . A person in the snow drilling a hole in the ice . A person standing on a frozen lake . A man drilling a hole in the ice . Two men are ice fishing .",
+            "keywords": "drilling hole,person snow,lake man"
+        },
+        "target": {
+            "image_name": "102520526.jpg",
+            "comment": "A man in black attire shovels snow into the street  disregarding all public safety . Man in black jacket gray snow cap  shovels snow near a street with cars . A man shoveling snow off the roads and sidewalks in a city . A person is cleaning snow and ice off of a city sidewalk . A man shovels slush of the street .",
+            "keywords": "street disregarding,snow ice,man shovels"
+        },
+        "id": 29
+    },
+    {
+        "query": {
+            "image_name": "1024138940.jpg",
+            "comment": "Two different breeds of brown and white dogs play on the beach . Two dogs are making a turn on a soft sand beach . Two large tan dogs play along a sandy beach . Two dogs playing in the sand at the beach . Two dogs playing together on a beach .",
+            "keywords": "breeds brown,dogs making,play beach"
+        },
+        "target": {
+            "image_name": "1001773457.jpg",
+            "comment": "A black dog and a white dog with brown spots are staring at each other in the street . A black dog and a tri-colored dog playing with each other on the road . Two dogs of different breeds looking at each other on the road . Two dogs on pavement moving toward each other . A black dog and a spotted dog are fighting",
+            "keywords": "different breeds,dog playing,staring street"
+        },
+        "id": 30
+    },
+    {
+        "query": {
+            "image_name": "1024613706.jpg",
+            "comment": "Two young men and a young lady walk through a field near the water . Three people walking through a beautiful meadow towards the ocean . Two men and a woman are walking through a field . Two males and one female walking on a path . Three people walking on a path in a meadow .",
+            "keywords": "ocean men,walking,beautiful meadow"
+        },
+        "target": {
+            "image_name": "1021293940.jpg",
+            "comment": "Two men are hiking in a forest where snow is partially covering the ground . Two men hiking in the snowy wilderness . Two hikers resting by a patch of snow . Two men look up while hiking . Two men hiking in the snow .",
+            "keywords": "forest,men look,hiking snow"
+        },
+        "id": 31
+    },
+    {
+        "query": {
+            "image_name": "102520526.jpg",
+            "comment": "A man in black attire shovels snow into the street  disregarding all public safety . Man in black jacket gray snow cap  shovels snow near a street with cars . A man shoveling snow off the roads and sidewalks in a city . A person is cleaning snow and ice off of a city sidewalk . A man shovels slush of the street .",
+            "keywords": "street disregarding,snow ice,man shovels"
+        },
+        "target": {
+            "image_name": "102617084.jpg",
+            "comment": "Five snowmobile riders all wearing helmets and goggles line up in a snowy clearing in a forest in front of their snowmobiles ; they are all wearing black snow pants and from left to right they are wearing a black coat  white coat  red coat  blue coat  and black coat . Five people wearing winter jackets and helmets stand in the snow  with snowmobiles in the background . Five people wearing winter clothing  helmets  and ski goggles stand outside in the snow . A group of snowmobile riders gather in the snow . Group gathered to go snowmobiling .",
+            "keywords": "people wearing,stand snow,forest snowmobiles"
+        },
+        "id": 32
+    },
+    {
+        "query": {
+            "image_name": "102617084.jpg",
+            "comment": "Five snowmobile riders all wearing helmets and goggles line up in a snowy clearing in a forest in front of their snowmobiles ; they are all wearing black snow pants and from left to right they are wearing a black coat  white coat  red coat  blue coat  and black coat . Five people wearing winter jackets and helmets stand in the snow  with snowmobiles in the background . Five people wearing winter clothing  helmets  and ski goggles stand outside in the snow . A group of snowmobile riders gather in the snow . Group gathered to go snowmobiling .",
+            "keywords": "people wearing,stand snow,forest snowmobiles"
+        },
+        "target": {
+            "image_name": "1043819504.jpg",
+            "comment": "A group of 11 people in winter wear such as beanies  skiing jackets  gloves and backpacks are standing in snow paddles outside a house made of ice blocks while a person in front of the door seems to be leading them . A group of people wearing snowshoes  and dressed for winter hiking  is standing in front of a building that looks like it 's made of blocks of ice . The people are quietly listening while the story of the ice cabin was explained to them . A group of people standing in front of an igloo . Several students waiting outside an igloo .",
+            "keywords": "igloo,people standing,winter hiking"
+        },
+        "id": 33
+    },
+    {
+        "query": {
+            "image_name": "1026685415.jpg",
+            "comment": "A black dog carries a green toy in his mouth as he walks through the grass . A wet black dog is carrying a green toy through the grass . A black dog carrying something through the grass . A dog in grass with a blue item in his mouth . A black dog has a blue toy in its mouth .",
+            "keywords": "grass blue,toy mouth,dog carries"
+        },
+        "target": {
+            "image_name": "1020651753.jpg",
+            "comment": "A white dog is trying to catch a ball in midair over a grassy field . The white dog is playing in a green field with a yellow toy . a black and white dog jumping in the air to get a toy . A black and white dog jumps up towards a yellow toy . A dog leaps to catch a ball in a field .",
+            "keywords": "yellow toy,ball field,dog jumps"
+        },
+        "id": 34
+    },
+    {
+        "query": {
+            "image_name": "1027149103.jpg",
+            "comment": "A band is playing in front of an audience and the singer is wearing an orange shirt and has tattoos on his arm . In a crowded concert a man in white is approaching the main singer who is wearing a yellow shirt . A man wearing a yellow t-shirt is shouting into a microphone while an audience is listening . A man in an orange shirt sings for the crowd below a sign that says Lucky 13 . A punk rocker screaming on stage at concert .",
+            "keywords": "main singer,shirt shouting,playing audience"
+        },
+        "target": {
+            "image_name": "101362650.jpg",
+            "comment": "Two people are demonstrating martial arts to a crowd and jumping over three youngsters who are crouched on the mat . A boy jump kicking over three kids kicking wood during a tae kwon do competition . A boy jumps over three other students in a martial arts demonstration . A crowd is watching a group of five martial artists perform . A crowd of people watch a martial arts demonstration .",
+            "keywords": "jumps students,martial,perform crowd"
+        },
+        "id": 35
+    },
+    {
+        "query": {
+            "image_name": "1030985833.jpg",
+            "comment": "The Chocolate Lab jumps too late to get the toy as the Black Lab captures it in the driveway . A brown and black lab are outside and the black lab is catching a toy in its mouth . A black dog and a brown dog play with a red toy on a courtyard . A black dog and a brown dog are jumping up to catch a red toy . Black dog snaps at red and black object as brown dog lunges .",
+            "keywords": "jumps,late toy,lab outside"
+        },
+        "target": {
+            "image_name": "1020651753.jpg",
+            "comment": "A white dog is trying to catch a ball in midair over a grassy field . The white dog is playing in a green field with a yellow toy . a black and white dog jumping in the air to get a toy . A black and white dog jumps up towards a yellow toy . A dog leaps to catch a ball in a field .",
+            "keywords": "yellow toy,ball field,dog jumps"
+        },
+        "id": 36
+    },
+    {
+        "query": {
+            "image_name": "103106960.jpg",
+            "comment": "A young male kneeling in front of a hockey goal with a hockey stick in his right hand . A child in a red jacket playing street hockey guarding a goal . Hockey goalie boy in red jacket crouches by goal  with stick . A boy with a stick kneeling in front of a goalie net A young kid playing the goalie in a hockey rink .",
+            "keywords": "kid playing,hockey rink,male kneeling"
+        },
+        "target": {
+            "image_name": "1007320043.jpg",
+            "comment": "A small child grips onto the red ropes at the playground . A little girl in pink climbs a rope bridge at the park . The small child climbs on a red ropes on a playground . A little girl climbing on red roping . A child playing on a rope net .",
+            "keywords": "park small,rope bridge,child playing"
+        },
+        "id": 37
+    },
+    {
+        "query": {
+            "image_name": "1033767085.jpg",
+            "comment": "a young child with a Band-Aid on his head sits eating at a small white table with a little girl eating off a yellow plate . A young blond-haired boy and a dark-haired girl are eating at a kid 's table . Two children are sitting at a table eating food . Two children eating at a small table . Two children eating food .",
+            "keywords": "sitting table,eating yellow,child band"
+        },
+        "target": {
+            "image_name": "1034276567.jpg",
+            "comment": "A small boy putting something in his mouth with both hands . A boy bites hard into a treat while he sits outside . The boy eats his food outside at the table . The boy is eating pizza over a tin dish . A child biting into a baked good .",
+            "keywords": "table boy,food outside,child biting"
+        },
+        "id": 38
+    },
+    {
+        "query": {
+            "image_name": "1034276567.jpg",
+            "comment": "A small boy putting something in his mouth with both hands . A boy bites hard into a treat while he sits outside . The boy eats his food outside at the table . The boy is eating pizza over a tin dish . A child biting into a baked good .",
+            "keywords": "table boy,food outside,child biting"
+        },
+        "target": {
+            "image_name": "1033767085.jpg",
+            "comment": "a young child with a Band-Aid on his head sits eating at a small white table with a little girl eating off a yellow plate . A young blond-haired boy and a dark-haired girl are eating at a kid 's table . Two children are sitting at a table eating food . Two children eating at a small table . Two children eating food .",
+            "keywords": "sitting table,eating yellow,child band"
+        },
+        "id": 39
+    },
+    {
+        "query": {
+            "image_name": "1034985636.jpg",
+            "comment": "A man with wild hair rocks a show playing a guitar center stage . A man wearing black is playing an electric guitar at a concert . A man on stage playing the electric guitar during a concert . A man playing an electric guitar on stage . A man playing guitar at a concert .",
+            "keywords": "wild hair,man wearing,guitar stage"
+        },
+        "target": {
+            "image_name": "1035392784.jpg",
+            "comment": "A man in black with long hair playing a guitar with stickers on it . A long-haired musician  playing his guitar in a performance . A rock artist performs on stage with an electric guitar . A man in a black shirt plays a black-colored guitar . A man wearing black is playing an electric guitar .",
+            "keywords": "black long,man wearing,guitar performance"
+        },
+        "id": 40
+    },
+    {
+        "query": {
+            "image_name": "1035019794.jpg",
+            "comment": "A person in a green outfit and helmet is swinging a baseball bat at a tennis ball in front of a fence . A girl playing softball hits the ball almost directly downwards A young girl is playing baseball and is striking out . A girl hitting a softball but she missed the ball . The batter missed the ball .",
+            "keywords": "helmet swinging,girl playing,batter missed"
+        },
+        "target": {
+            "image_name": "1043910339.jpg",
+            "comment": "A baseball player in red leaps into the air to avoid a player in blue  who is shortly behind him as he catches the ball  while other blue team members look on in the background . A boy in a red uniform is attempting to avoid getting out at home plate  while the catcher in the blue uniform is attempting to catch him . A baseball player coming into home plate with knee held high and the catcher right in front of him waiting for the ball . A baseball player attempting to score a run before the catcher tags the player out . A baseball catcher trying to tag a base runner in a baseball game .",
+            "keywords": "red leaps,player attempting,plate catcher"
+        },
+        "id": 41
+    },
+    {
+        "query": {
+            "image_name": "10350842.jpg",
+            "comment": "A man in a green shirt and red life jacket is sitting in a canoe drifting around the lake . A man wearing a life jacket is in a small boat on a lake with a ferry in view . A man wearing a red life-vest is sitting in a canoe on a body of water . A balding man wearing a red life jacket is sitting in a small boat . A man in a red life vest is riding in a canoe .",
+            "keywords": "lake ferry,man green,vest riding"
+        },
+        "target": {
+            "image_name": "1015712668.jpg",
+            "comment": "A man in a red long-sleeved shirt bikes over a body of water on a bridge . A man riding his bike across the bridge that is over the river . A man in red on a bicycle rides past a glass structure . Man in a red shirt riding his bicycle around water . A man in a red shirt rides his bicycle .",
+            "keywords": "man red,water bridge,rides bicycle"
+        },
+        "id": 42
+    },
+    {
+        "query": {
+            "image_name": "1035392784.jpg",
+            "comment": "A man in black with long hair playing a guitar with stickers on it . A long-haired musician  playing his guitar in a performance . A rock artist performs on stage with an electric guitar . A man in a black shirt plays a black-colored guitar . A man wearing black is playing an electric guitar .",
+            "keywords": "black long,man wearing,guitar performance"
+        },
+        "target": {
+            "image_name": "1034985636.jpg",
+            "comment": "A man with wild hair rocks a show playing a guitar center stage . A man wearing black is playing an electric guitar at a concert . A man on stage playing the electric guitar during a concert . A man playing an electric guitar on stage . A man playing guitar at a concert .",
+            "keywords": "wild hair,man wearing,guitar stage"
+        },
+        "id": 43
+    },
+    {
+        "query": {
+            "image_name": "103953336.jpg",
+            "comment": "Someone is standing on a long bridge with a cloudy blue sky in the background . A solitary man stand on a bridge in the evening . One person is standing on a bridge at night . Person crossing a bridge in dim light . A man stands on a bridge at night .",
+            "keywords": "sky background,man stands,crossing bridge"
+        },
+        "target": {
+            "image_name": "100444898.jpg",
+            "comment": "A person in gray stands alone on a structure outdoors in the dark . A large structure has broken and is laying in a roadway . A man in a gray coat is standing on a washed out bridge . A man stands on wooden supports and surveys damage . A man in a jacket and jeans standing on a bridge .",
+            "keywords": "washed bridge,man stands,outdoors dark"
+        },
+        "id": 44
+    },
+    {
+        "query": {
+            "image_name": "1040426962.jpg",
+            "comment": "A man is cooking what appears to be green beans in a grill basket on a grill with a yellow lab standing by him while someone takes a picture from above . A man and his dog are grilling green beans on a grill . A man grilling vegetables on a patio with his dog . A man and a dog grilling green beans . Guy and his dog cooking outside",
+            "keywords": "man dog,cooking outside,green beans"
+        },
+        "target": {
+            "image_name": "1000366164.jpg",
+            "comment": "Two men  one in a gray shirt  one in a black shirt  standing near a stove . Two guy cooking and joking around with the camera . Two men in a kitchen cooking food on a stove . Two men are at the stove preparing food . Two men are cooking a meal .",
+            "keywords": "preparing food,men gray,near stove"
+        },
+        "id": 45
+    },
+    {
+        "query": {
+            "image_name": "104136873.jpg",
+            "comment": "Three people are on a hilltop overlooking a green valley . People sit on the mountainside and check out the view . Three people rest on a ledge above the moutains . Three people hang out on top of a big hill . Three people overlook a green valley .",
+            "keywords": "people sit,valley,overlook green"
+        },
+        "target": {
+            "image_name": "1048710776.jpg",
+            "comment": "a couple of several people sitting on a ledge overlooking the beach Several young people sitting on a rail above a crowded beach . A group of people sit on a wall at the beach . A group of teens sit on a wall by a beach . Crowd of people at the beach .",
+            "keywords": "sit wall,overlooking beach,group teens"
+        },
+        "id": 46
+    },
+    {
+        "query": {
+            "image_name": "104180524.jpg",
+            "comment": "A group of tourists is crossing a bridge that connects a walking path to a trail of nature . Many people cross a very tall footbridge with a tree-covered hill in the background . This shows a group of people walking over an arched red bridge . People cross a large bridge to get over the body of water . People walking over a white and red bridge over a pond .",
+            "keywords": "connects walking,bridge pond,group tourists"
+        },
+        "target": {
+            "image_name": "1024613706.jpg",
+            "comment": "Two young men and a young lady walk through a field near the water . Three people walking through a beautiful meadow towards the ocean . Two men and a woman are walking through a field . Two males and one female walking on a path . Three people walking on a path in a meadow .",
+            "keywords": "ocean men,walking,beautiful meadow"
+        },
+        "id": 47
+    },
+    {
+        "query": {
+            "image_name": "1042590306.jpg",
+            "comment": "A man is holding the hand of a woman up to his mouth in front of some buildings while another man looks on . Guy in blue shirt biting hand of girl in black striped jacket while another guy watches Asian man and blond woman holding hands outdoors  man in background watches . A man and woman pose for the camera while another man looks on . A multiracial couple posing for a picture",
+            "keywords": "biting hand,pose camera,multiracial couple"
+        },
+        "target": {
+            "image_name": "1011572216.jpg",
+            "comment": "bride and groom walking side by side out of focus on pathway next to brick building . A beautiful bride walking on a sidewalk with her new husband . A recently married couple pose for the camera . A groom and bride are standing arm in arm . A couple getting married .",
+            "keywords": "walking sidewalk,camera groom,arm couple"
+        },
+        "id": 48
+    },
+    {
+        "query": {
+            "image_name": "1043819504.jpg",
+            "comment": "A group of 11 people in winter wear such as beanies  skiing jackets  gloves and backpacks are standing in snow paddles outside a house made of ice blocks while a person in front of the door seems to be leading them . A group of people wearing snowshoes  and dressed for winter hiking  is standing in front of a building that looks like it 's made of blocks of ice . The people are quietly listening while the story of the ice cabin was explained to them . A group of people standing in front of an igloo . Several students waiting outside an igloo .",
+            "keywords": "igloo,people standing,winter hiking"
+        },
+        "target": {
+            "image_name": "102617084.jpg",
+            "comment": "Five snowmobile riders all wearing helmets and goggles line up in a snowy clearing in a forest in front of their snowmobiles ; they are all wearing black snow pants and from left to right they are wearing a black coat  white coat  red coat  blue coat  and black coat . Five people wearing winter jackets and helmets stand in the snow  with snowmobiles in the background . Five people wearing winter clothing  helmets  and ski goggles stand outside in the snow . A group of snowmobile riders gather in the snow . Group gathered to go snowmobiling .",
+            "keywords": "people wearing,stand snow,forest snowmobiles"
+        },
+        "id": 49
+    },
+    {
+        "query": {
+            "image_name": "1043910339.jpg",
+            "comment": "A baseball player in red leaps into the air to avoid a player in blue  who is shortly behind him as he catches the ball  while other blue team members look on in the background . A boy in a red uniform is attempting to avoid getting out at home plate  while the catcher in the blue uniform is attempting to catch him . A baseball player coming into home plate with knee held high and the catcher right in front of him waiting for the ball . A baseball player attempting to score a run before the catcher tags the player out . A baseball catcher trying to tag a base runner in a baseball game .",
+            "keywords": "red leaps,player attempting,plate catcher"
+        },
+        "target": {
+            "image_name": "1035019794.jpg",
+            "comment": "A person in a green outfit and helmet is swinging a baseball bat at a tennis ball in front of a fence . A girl playing softball hits the ball almost directly downwards A young girl is playing baseball and is striking out . A girl hitting a softball but she missed the ball . The batter missed the ball .",
+            "keywords": "helmet swinging,girl playing,batter missed"
+        },
+        "id": 50
+    },
+    {
+        "query": {
+            "image_name": "1044434135.jpg",
+            "comment": "A man in the foreground wearing a white shirt and black pants riding a bicycle with a basket in a busy street . This photo takes place in a busy street in an Asian city where people are riding bikes and walking . A very bus street is shown with Asian people all around walking and riding bicycles . A man in a white shirt rides a bicycle on a busy street . An Asian man riding a bike in the road .",
+            "keywords": "man riding,basket busy,street asian"
+        },
+        "target": {
+            "image_name": "1067675215.jpg",
+            "comment": "A man lies on a mat in a parking lot between a brown SUV and a yellow pickup with an open door . A shirtless man is laying down in the middle of a busy street . A man laying down in middle of street during heavy traffic . A man in blue shorts lays down outside in a parking lot .",
+            "keywords": "brown suv,man lies,busy street"
+        },
+        "id": 51
+    },
+    {
+        "query": {
+            "image_name": "1044798682.jpg",
+            "comment": "A man wearing a hat and a white shirt is cleaning windows . A man in a white shirt stands high up on scaffolding A man stands on boards on top of a huge ladder . Man works on top of scaffolding . A guy works on a building .",
+            "keywords": "man stands,scaffolding,cleaning windows"
+        },
+        "target": {
+            "image_name": "1000344755.jpg",
+            "comment": "Someone in a blue shirt and hat is standing on stair and leaning against a window . A man in a blue shirt is standing on a ladder cleaning a window . A man on a ladder cleans the window of a tall building . man in blue shirt and jeans on ladder cleaning windows a man on a ladder cleans a window",
+            "keywords": "man blue,standing stair,cleaning windows"
+        },
+        "id": 52
+    },
+    {
+        "query": {
+            "image_name": "1045124251.jpg",
+            "comment": "a blond-haired man with glasses and a blank tank top is sitting next to another man with glasses and headphones while sitting on a train . A blond man wearing glasses is sitting in the train looking down at something . White man with glasses sitting next to another man who has earphones in . A 30 somethings man playing with his phone on a subway train . Two guys are riding on a subway  both wearing glasses .",
+            "keywords": "guys riding,glasses headphones,subway train"
+        },
+        "target": {
+            "image_name": "1065831604.jpg",
+            "comment": "A bunch of people in racing gear and helmets racing bicycles around a corner on wet pavement . Many men ride their bicycles through some puddles around a curve during a race . Group of bicyclers rounding a corner with water spraying up from their wheels . Bikers in a bike race take a sharp left turn . Several bike riders compete in a competition .",
+            "keywords": "men ride,helmets racing,bicycles puddles"
+        },
+        "id": 53
+    },
+    {
+        "query": {
+            "image_name": "104835889.jpg",
+            "comment": "A samurai warrior in full black dress takes his sword from the sheath on an outdoor training mat . A man in a black martial arts suit unsheathes a sword on a training mat in a field . A guy with a sword and traditional fighting gear is getting ready for a fight . A man in black wields a sword in front of rolling  green hills . One man dressed in black doing karate in a green field .",
+            "keywords": "doing karate,sword traditional,warrior black"
+        },
+        "target": {
+            "image_name": "101362133.jpg",
+            "comment": "A young female student performing a downward kick to break a board held by her Karate instructor . Girl about to kick a piece of wood in half while karate instructor holds it A girl kicking a stick that a man is holding in tae kwon do class . A girl in karate uniform breaking a stick with a front kick . A girl breaking boards by using karate .",
+            "keywords": "holding tae,kick piece,female student"
+        },
+        "id": 54
+    },
+    {
+        "query": {
+            "image_name": "1048710776.jpg",
+            "comment": "a couple of several people sitting on a ledge overlooking the beach Several young people sitting on a rail above a crowded beach . A group of people sit on a wall at the beach . A group of teens sit on a wall by a beach . Crowd of people at the beach .",
+            "keywords": "sit wall,overlooking beach,group teens"
+        },
+        "target": {
+            "image_name": "104136873.jpg",
+            "comment": "Three people are on a hilltop overlooking a green valley . People sit on the mountainside and check out the view . Three people rest on a ledge above the moutains . Three people hang out on top of a big hill . Three people overlook a green valley .",
+            "keywords": "people sit,valley,overlook green"
+        },
+        "id": 55
+    },
+    {
+        "query": {
+            "image_name": "105077209.jpg",
+            "comment": "A man with a badge is standing on a wood floor next to a structure . A security guard stands by a metal  lighted sculpture . A white-haired man in a suit stands in an empty room . A security guard on watch duty at the museum . Security guard at a art museum .",
+            "keywords": "suit stands,lighted sculpture,security guard"
+        },
+        "target": {
+            "image_name": "100716317.jpg",
+            "comment": "A person with long gray hair has a beret with beige and white wearing a blue raincoat is painting a marketplace scenery surrounded by other artists and paintings . A person dressed in a blue coat is standing in on a busy sidewalk  studying painting of a street scene . A person with gray hair is painting in a public place surrounded by others who are also painting . Lady in blue coat with white and brown hat standing in front of a painting . Passerby admiring painting at an outdoor art fair .",
+            "keywords": "painting passerby,coat standing,outdoor art"
+        },
+        "id": 56
+    },
+    {
+        "query": {
+            "image_name": "105223874.jpg",
+            "comment": "A young child wearing a blue shirt and sandals playing with a red toy while sitting on the floor . A black-haired child in a blue outfit is playing with a toy outside on a tile floor . A little boy with a blue shirt on sitting on the ground playing with legos . A young child playing with a toy while laying on the floor . A little boy playing with his toy .",
+            "keywords": "legos,sandals playing,boy blue"
+        },
+        "target": {
+            "image_name": "1066252238.jpg",
+            "comment": "A boy in a pink T-shirt is riding a bike over a sand pile while two others are riding in the street . Three boys playing and biking with a pile of sand in the middle 3 young boys are riding their bikes around a mound of dirt . Three kids riding bikes over a dirt mound . Some young boys ride bikes in the street .",
+            "keywords": "boy pink,bikes mound,boys playing"
+        },
+        "id": 57
+    },
+    {
+        "query": {
+            "image_name": "1052358063.jpg",
+            "comment": "A little boy skateboarder is doing a trick on his board while another young skateboarder watches . A child is performing a skateboard trick while another child with a skateboard leans on a wall . A boy takes a jump on his skateboard while another boy with a skateboard watches . a young boy skateboarder jumping on a platform on a skateboard . Two skateboarders .",
+            "keywords": "skateboard watches,board young,trick child"
+        },
+        "target": {
+            "image_name": "105223874.jpg",
+            "comment": "A young child wearing a blue shirt and sandals playing with a red toy while sitting on the floor . A black-haired child in a blue outfit is playing with a toy outside on a tile floor . A little boy with a blue shirt on sitting on the ground playing with legos . A young child playing with a toy while laying on the floor . A little boy playing with his toy .",
+            "keywords": "legos,sandals playing,boy blue"
+        },
+        "id": 58
+    },
+    {
+        "query": {
+            "image_name": "1053116826.jpg",
+            "comment": "Two little children  one boy and one girl  laugh as they sit on the grass . A little boy and a girl sitting down in the grass having fun . A young boy and a young girl sitting in the grass laughing . Two children smiling and sitting on grass . Two kids are laughing in the grass .",
+            "keywords": "girl laugh,little children,sitting grass"
+        },
+        "target": {
+            "image_name": "1010673430.jpg",
+            "comment": "A little girl in a pink shirt and a little girl in an orange shirt sitting in the grass . Two young children eating a snack and playing in the grass . Two young toddlers outside on the grass . Two infants are at play in the yard . 2 female babies eating chips .",
+            "keywords": "sitting grass,eating chips,female babies"
+        },
+        "id": 59
+    },
+    {
+        "query": {
+            "image_name": "1053804096.jpg",
+            "comment": "a girl with pigtails is playing in the ocean by the beach . A girl in pigtails splashes in the shallow water . A young girl in pigtails plays in the water . A girl with pigtails plays in the water . A girls plays in the surf .",
+            "keywords": "pigtails,ocean,girls plays"
+        },
+        "target": {
+            "image_name": "106490881.jpg",
+            "comment": "A young boy in swimming trunks is walking with his arms outstretched on the beach . The boy is playing on the shore of an ocean . A boy in his blue swim shorts at the beach . A boy smiles for the camera at a beach . Children playing on the beach .",
+            "keywords": "smiles camera,shore ocean,children playing"
+        },
+        "id": 60
+    },
+    {
+        "query": {
+            "image_name": "1054620089.jpg",
+            "comment": "A woman in jeans and a red coat and carrying a multicolored handbag spreads put her arms while leaping up from a cobblestone street . A lady in a red coat  holding a bluish hand bag likely of asian descent  jumping off the ground for a snapshot . A woman in a red jacket  with a blue and gold handbag is jumping while smiling on a cobblestone street . A woman wearing a red coat is jumping outdoors . Girl in red jumping for joy .",
+            "keywords": "red coat,jumping outdoors,woman wearing"
+        },
+        "target": {
+            "image_name": "1043910339.jpg",
+            "comment": "A baseball player in red leaps into the air to avoid a player in blue  who is shortly behind him as he catches the ball  while other blue team members look on in the background . A boy in a red uniform is attempting to avoid getting out at home plate  while the catcher in the blue uniform is attempting to catch him . A baseball player coming into home plate with knee held high and the catcher right in front of him waiting for the ball . A baseball player attempting to score a run before the catcher tags the player out . A baseball catcher trying to tag a base runner in a baseball game .",
+            "keywords": "red leaps,player attempting,plate catcher"
+        },
+        "id": 61
+    },
+    {
+        "query": {
+            "image_name": "1056249424.jpg",
+            "comment": "Two boys  one with a yellow and orange ball  play in some water in front of a field . Two children play with a balloon in mud on a sunny day . Two kids are running and playing in some water . The children are playing in the water . Two boys play in a puddle .",
+            "keywords": "boys yellow,water field,play balloon"
+        },
+        "target": {
+            "image_name": "1057089366.jpg",
+            "comment": "A kid jumps off the diving board and into the swimming pool below . The boy is jumping off a high diving board into the pool . A child jumps off a high diving board into the pool . A little kid is jumping off a high dive at the pool . A boy descends off the end of a high diving board .",
+            "keywords": "jumps,swimming pool,boy descends"
+        },
+        "id": 62
+    },
+    {
+        "query": {
+            "image_name": "105685221.jpg",
+            "comment": "Several people jogging outside on a sunny day in what seems to be a neighborhood  could be part of a marathon . Seven people are running and one of them is a man wearing a blue t-shirt and red shorts People jogging together on a park sidewalk . a group of joggers running on the sidewalk . Seven joggers run down a path .",
+            "keywords": "park sidewalk,shorts people,marathon seven"
+        },
+        "target": {
+            "image_name": "102617084.jpg",
+            "comment": "Five snowmobile riders all wearing helmets and goggles line up in a snowy clearing in a forest in front of their snowmobiles ; they are all wearing black snow pants and from left to right they are wearing a black coat  white coat  red coat  blue coat  and black coat . Five people wearing winter jackets and helmets stand in the snow  with snowmobiles in the background . Five people wearing winter clothing  helmets  and ski goggles stand outside in the snow . A group of snowmobile riders gather in the snow . Group gathered to go snowmobiling .",
+            "keywords": "people wearing,stand snow,forest snowmobiles"
+        },
+        "id": 63
+    },
+    {
+        "query": {
+            "image_name": "1057089366.jpg",
+            "comment": "A kid jumps off the diving board and into the swimming pool below . The boy is jumping off a high diving board into the pool . A child jumps off a high diving board into the pool . A little kid is jumping off a high dive at the pool . A boy descends off the end of a high diving board .",
+            "keywords": "jumps,swimming pool,boy descends"
+        },
+        "target": {
+            "image_name": "1030985833.jpg",
+            "comment": "The Chocolate Lab jumps too late to get the toy as the Black Lab captures it in the driveway . A brown and black lab are outside and the black lab is catching a toy in its mouth . A black dog and a brown dog play with a red toy on a courtyard . A black dog and a brown dog are jumping up to catch a red toy . Black dog snaps at red and black object as brown dog lunges .",
+            "keywords": "jumps,late toy,lab outside"
+        },
+        "id": 64
+    },
+    {
+        "query": {
+            "image_name": "1059514525.jpg",
+            "comment": "A person is sleeping on a bench on the sidewalk  across the street from a bus stop . A man with a plaid blanket sleeps on a bench near a city street . A person laying on a street bench under a blue plaid blanket . A man is sleeping on a bench near a bus stop . Someone sleeping on bench on city street .",
+            "keywords": "street bus,man sleeping,bench near"
+        },
+        "target": {
+            "image_name": "1003163366.jpg",
+            "comment": "a man sleeping on a bench outside with a white and black dog sitting next to him . A man lays on the bench to which a white dog is also tied . man laying on bench holding leash of dog sitting on ground A shirtless man lies on a park bench with his dog . A man lays on a bench while his dog sits by him .",
+            "keywords": "dog tied,man sleeping,park bench"
+        },
+        "id": 65
+    },
+    {
+        "query": {
+            "image_name": "10602072.jpg",
+            "comment": "Two young girls are playing in the forest ; the younger one is climbing a short tree and is about 2 feet off the ground . A little girl in a red shirt and jeans climbs a small tree while another little girl looks on . Two young girl are playing near a small tree  and one has climbed up into the branches . One child is climbing in a tree while another  older child  watches . A young girl watched as a girl younger than her climb a tree .",
+            "keywords": "climbed branches,girl playing,forest younger"
+        },
+        "target": {
+            "image_name": "1007320043.jpg",
+            "comment": "A small child grips onto the red ropes at the playground . A little girl in pink climbs a rope bridge at the park . The small child climbs on a red ropes on a playground . A little girl climbing on red roping . A child playing on a rope net .",
+            "keywords": "park small,rope bridge,child playing"
+        },
+        "id": 66
+    },
+    {
+        "query": {
+            "image_name": "1060605297.jpg",
+            "comment": "Firefighters converse with a man at the scene of an emergency . Firefighters wear reflective uniforms and stare upwards . Several firefighters are responding to an alarm . Reflections from the firemen 's uniforms . Firefighters are responding to an event .",
+            "keywords": "responding event,converse man,uniforms firefighters"
+        },
+        "target": {
+            "image_name": "1061467336.jpg",
+            "comment": "A few firefighters  wearing black  yellow  and pink jackets  standing next to a firetruck . Several firefighters stand outside of a building near their firetrucks . Firefighters at a scene with a firetruck that has it 's lights on . Firemen stand outside of their firetruck with all its lights on . Four on-duty firemen talk in front of a firetruck .",
+            "keywords": "jackets standing,talk firetruck,firefighters scene"
+        },
+        "id": 67
+    },
+    {
+        "query": {
+            "image_name": "1061467336.jpg",
+            "comment": "A few firefighters  wearing black  yellow  and pink jackets  standing next to a firetruck . Several firefighters stand outside of a building near their firetrucks . Firefighters at a scene with a firetruck that has it 's lights on . Firemen stand outside of their firetruck with all its lights on . Four on-duty firemen talk in front of a firetruck .",
+            "keywords": "jackets standing,talk firetruck,firefighters scene"
+        },
+        "target": {
+            "image_name": "1060605297.jpg",
+            "comment": "Firefighters converse with a man at the scene of an emergency . Firefighters wear reflective uniforms and stare upwards . Several firefighters are responding to an alarm . Reflections from the firemen 's uniforms . Firefighters are responding to an event .",
+            "keywords": "responding event,converse man,uniforms firefighters"
+        },
+        "id": 68
+    },
+    {
+        "query": {
+            "image_name": "106490881.jpg",
+            "comment": "A young boy in swimming trunks is walking with his arms outstretched on the beach . The boy is playing on the shore of an ocean . A boy in his blue swim shorts at the beach . A boy smiles for the camera at a beach . Children playing on the beach .",
+            "keywords": "smiles camera,shore ocean,children playing"
+        },
+        "target": {
+            "image_name": "1053804096.jpg",
+            "comment": "a girl with pigtails is playing in the ocean by the beach . A girl in pigtails splashes in the shallow water . A young girl in pigtails plays in the water . A girl with pigtails plays in the water . A girls plays in the surf .",
+            "keywords": "pigtails,ocean,girls plays"
+        },
+        "id": 69
+    },
+    {
+        "query": {
+            "image_name": "1065323785.jpg",
+            "comment": "Kids riding on their bicycles near a mound of dirt with a hovel from a backhoe in front of the mound . A boy wearing a red shirt is riding his bike right next to a mound of dirt . A group of boys are riding their bikes around a big pile of dirt . Kids are riding bikes near a dirt mound in the street . The kids are riding bikes in the pile of dirt .",
+            "keywords": "kids,mound dirt,bikes near"
+        },
+        "target": {
+            "image_name": "1066252238.jpg",
+            "comment": "A boy in a pink T-shirt is riding a bike over a sand pile while two others are riding in the street . Three boys playing and biking with a pile of sand in the middle 3 young boys are riding their bikes around a mound of dirt . Three kids riding bikes over a dirt mound . Some young boys ride bikes in the street .",
+            "keywords": "boy pink,bikes mound,boys playing"
+        },
+        "id": 70
+    },
+    {
+        "query": {
+            "image_name": "1065831604.jpg",
+            "comment": "A bunch of people in racing gear and helmets racing bicycles around a corner on wet pavement . Many men ride their bicycles through some puddles around a curve during a race . Group of bicyclers rounding a corner with water spraying up from their wheels . Bikers in a bike race take a sharp left turn . Several bike riders compete in a competition .",
+            "keywords": "men ride,helmets racing,bicycles puddles"
+        },
+        "target": {
+            "image_name": "1045124251.jpg",
+            "comment": "a blond-haired man with glasses and a blank tank top is sitting next to another man with glasses and headphones while sitting on a train . A blond man wearing glasses is sitting in the train looking down at something . White man with glasses sitting next to another man who has earphones in . A 30 somethings man playing with his phone on a subway train . Two guys are riding on a subway  both wearing glasses .",
+            "keywords": "guys riding,glasses headphones,subway train"
+        },
+        "id": 71
+    },
+    {
+        "query": {
+            "image_name": "1066252238.jpg",
+            "comment": "A boy in a pink T-shirt is riding a bike over a sand pile while two others are riding in the street . Three boys playing and biking with a pile of sand in the middle 3 young boys are riding their bikes around a mound of dirt . Three kids riding bikes over a dirt mound . Some young boys ride bikes in the street .",
+            "keywords": "boy pink,bikes mound,boys playing"
+        },
+        "target": {
+            "image_name": "1065323785.jpg",
+            "comment": "Kids riding on their bicycles near a mound of dirt with a hovel from a backhoe in front of the mound . A boy wearing a red shirt is riding his bike right next to a mound of dirt . A group of boys are riding their bikes around a big pile of dirt . Kids are riding bikes near a dirt mound in the street . The kids are riding bikes in the pile of dirt .",
+            "keywords": "kids,mound dirt,bikes near"
+        },
+        "id": 72
+    },
+    {
+        "query": {
+            "image_name": "1067180831.jpg",
+            "comment": "A black and white dog is attempting to catch a yellow and purple object in a low cut yard . A black dog is jumping up to catch a purple and green toy . A black and white dog jumps after a yellow toy . a black and white dog jumps to get the Frisbee . A dog jumps to catch a toy .",
+            "keywords": "catch yellow,toy black,dog jumps"
+        },
+        "target": {
+            "image_name": "1020651753.jpg",
+            "comment": "A white dog is trying to catch a ball in midair over a grassy field . The white dog is playing in a green field with a yellow toy . a black and white dog jumping in the air to get a toy . A black and white dog jumps up towards a yellow toy . A dog leaps to catch a ball in a field .",
+            "keywords": "yellow toy,ball field,dog jumps"
+        },
+        "id": 73
+    },
+    {
+        "query": {
+            "image_name": "1067675215.jpg",
+            "comment": "A man lies on a mat in a parking lot between a brown SUV and a yellow pickup with an open door . A shirtless man is laying down in the middle of a busy street . A man laying down in middle of street during heavy traffic . A man in blue shorts lays down outside in a parking lot .",
+            "keywords": "brown suv,man lies,busy street"
+        },
+        "target": {
+            "image_name": "1044434135.jpg",
+            "comment": "A man in the foreground wearing a white shirt and black pants riding a bicycle with a basket in a busy street . This photo takes place in a busy street in an Asian city where people are riding bikes and walking . A very bus street is shown with Asian people all around walking and riding bicycles . A man in a white shirt rides a bicycle on a busy street . An Asian man riding a bike in the road .",
+            "keywords": "man riding,basket busy,street asian"
+        },
+        "id": 74
+    }
+]
