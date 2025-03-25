@@ -1,5 +1,7 @@
 # NoteLLM2
 
+link: https://arxiv.org/pdf/2405.16789
+
 NoteLLM2是一个基于LLaVA架构的多模态大语言模型项目，专注于图像理解和文本生成任务。
 
 ## 项目结构
@@ -13,3 +15,5 @@ notellm2/
 
 ## 注意事项
 - 确保有足够的GPU内存进行训练 >24g
+
+<img width="870" alt="image" src="https://github.com/user-attachments/assets/e767892a-b583-4b34-905c-a85e2ed600ca" />
